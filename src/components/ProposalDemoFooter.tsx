@@ -21,7 +21,7 @@ export function ProposalDemoFooter() {
             </p>
             <p>
               This is not a finished or production-ready build yet:
-              there is no live backend, no real patient data, and features are
+              there is no live backend yet and features are
               scoped to the demo. The full implementation will include security,
               integrations, and your clinic&apos;s workflows.
             </p>
